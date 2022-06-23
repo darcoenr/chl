@@ -1,0 +1,6 @@
+[1] "TAT"                                     
+[2] "IL4I1, FIG1, LAAO, LAO, hIL4I1"          
+[3] "PAH, PH, PKU, PKU1"                      
+[4] "GOT1L1"                                  
+[5] "GOT1, AST1, ASTQTL1, GIG18, cAspAT, cCAT"
+[6] "GOT2, DEE82, KAT4, KATIV, KYAT4, mitAAT" 

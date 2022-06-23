@@ -1,0 +1,671 @@
+Chemical Name,Chemical ID,CAS RN,Disease Name,Disease ID,Direct Evidence,Inference Network,Inference Score,Reference Count
+Vitamin B 12,D014805,68-19-9,Homocystinuria,MESH:D006712,marker/mechanism,CBS,4.84,4
+Hydroxocobalamin,D006879,13422-51-0,Methylmalonic acidemia with homocystinuria,MESH:C537359,therapeutic,MMACHC,6.94,2
+5-methyltetrahydrofolate,C005984,134-35-0,Homocystinuria,MESH:D006712,therapeutic,MTRR,6.59,3
+Betaine,D001622,107-43-7,Homocystinuria,MESH:D006712,therapeutic,,,1
+Homocysteine,D006710,454-28-4,Homocystinuria,MESH:D006712,,CBS|MTRR,9.48,3
+cylindrospermopsin,C089595,143545-90-8,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,9.13,2
+monobutyl phthalate,C028577,131-70-4,Homocystinuria,MESH:D006712,,CBS|MTRR,8.26,3
+bromfenacoum,C013418,56073-10-0,Homocystinuria,MESH:D006712,,CBS|MTRR,8.03,3
+"5,10-methylenetetrahydrofolic acid",C013123,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,7.90,1
+Ancitabine,D003504,31698-14-3,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,7.55,1
+4-hydroxyphenylacetic acid,C008070,,Homocystinuria,MESH:D006712,,CBS,7.46,1
+5-methyltetrahydrofolate,C005984,134-35-0,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,7.40,1
+5-fluoro-2'-deoxyuridine,C576827,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,7.27,1
+7-hydroxymethotrexate,C011864,5939-37-7,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,7.20,1
+methylmercury sulfide,C108833,54277-95-1,Homocystinuria,MESH:D006712,,CBS,7.11,1
+5-methyltetrahydrofolate,C005984,134-35-0,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,6.92,1
+2-acetylamino-3-(4-(2-acetylamino-2-carboxyethylsulfanylthiocarbonylamino)phenylthiocarbamoylsulfanyl)propionic acid,C539612,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,6.84,1
+Pentachlorophenol,D010416,87-86-5,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,6.72,2
+Cystathionine,D003540,56-88-2,Homocystinuria,MESH:D006712,,CBS,6.65,1
+siomycin A,C024711,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,6.63,1
+Carbonates,D002254,,Homocystinuria,MESH:D006712,,CBS,6.49,1
+Methotrexate,D008727,59-05-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,6.48,2
+4-chloroaniline,C004658,106-47-8,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,6.38,1
+frenolicin B,C018066,68930-68-7,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,6.38,1
+"1,4-bis(2-(3,5-dichloropyridyloxy))benzene",C028474,76150-91-9,Homocystinuria,MESH:D006712,,CBS|MTRR,6.34,3
+chloramine-T,C016300,127-65-1,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,6.33,1
+Nitrogen Compounds,D017672,,Homocystinuria,MESH:D006712,,CBS,6.31,1
+dicrotophos,C000944,3735-78-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,6.29,2
+(N-propargyl-(3R) aminoindan-5-yl)-ethyl methyl carbamate,C423264,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,6.29,1
+Floxuridine,D005467,50-91-9,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,6.22,1
+Picloram,D010846,1918-02-1,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,6.14,1
+"arginyl-2,'6'-dimethyltyrosyl-lysyl-phenylalaninamide",C506540,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,6.11,1
+triclopyr,C032742,55335-06-3,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,6.11,1
+Arsenites,D018053,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,6.08,1
+p-aminophenylarsine oxide,C530734,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,6.08,1
+Hydroxylamine,D019811,7803-49-8,Homocystinuria,MESH:D006712,,CBS,6.04,1
+"3,4-dihydrocoumarin",C026308,119-84-6,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,6.03,1
+Ammonia,D000641,7664-41-7,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,6.02,1
+phenylhydrazine,C030299,100-63-0,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,6.02,1
+carvone,C006923,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,6.01,1
+nordy,C510003,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,6.01,1
+Riboflavin,D012256,83-88-5,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,6.00,1
+Potassium Dichromate,D011192,7778-50-9,Homocystinuria,MESH:D006712,,CBS|MTRR,5.99,3
+hexabromocyclododecane,C089796,25637-99-4,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,5.98,2
+diallyl phthalate,C049098,131-17-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.96,1
+"O(2)-(2,4-dinitrophenyl) 1-((4-ethoxycarbonyl)piperazin-1-yl)diazen-1-ium-1,2-diolate",C474958,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.96,1
+Homocysteine,D006710,454-28-4,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,5.92,1
+2-(1-(3-dimethylaminopropyl)-5-methoxyindol-3-yl)-3-(1H-indol-3-yl)maleimide,C465664,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.92,1
+GYY 4137,C529376,,Homocystinuria,MESH:D006712,,CBS,5.91,1
+Ritodrine,D012312,26652-09-5,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,5.90,1
+8-Hydroxy-2'-Deoxyguanosine,D000080242,88847-89-6,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.90,1
+tomentosin,C454646,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.86,1
+methoxyacetic acid,C013598,625-45-6,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,5.84,1
+benazepril,C044946,86541-75-5,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,5.80,1
+Endosulfan,D004726,115-29-7,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,5.79,2
+Lipopolysaccharides,D008070,,Homocystinuria,MESH:D006712,,CBS|MTRR,5.77,3
+cobaltous chloride,C018021,7646-79-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,5.77,2
+"tris(1,3-dichloro-2-propyl)phosphate",C016805,13674-87-8,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,5.76,2
+benzo(b)fluorene,C041512,243-17-4,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.74,1
+"Fatty Acids, Omega-3",D015525,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,5.73,1
+Leucovorin,D002955,58-05-9,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,5.68,1
+NCX 4040,C498045,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.67,1
+Coal Ash,D060729,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,5.66,1
+retene,C447880,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.64,1
+Vitamin B 12,D014805,68-19-9,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,5.62,1
+bifenthrin,C099952,82657-04-3,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,5.58,1
+Vitamin B 12,D014805,68-19-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC,5.57,2
+monobutyl phthalate,C028577,131-70-4,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,5.54,1
+4-hydroxy-equilenin,C065250,81608-60-8,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.54,1
+Copper,D003300,7440-50-8,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,5.52,2
+"7,3'-dihydroxy-4'-methoxyisoflavone",C121707,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.50,1
+Ceramides,D002518,,Homocystinuria,MESH:D006712,,CBS,5.49,1
+Betaine,D001622,107-43-7,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,5.49,1
+Polyethylene Glycols,D011092,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,5.49,1
+"2,3,7,8-tetrabromodibenzo-4-dioxin",C066841,50585-41-6,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.49,1
+bromfenacoum,C013418,56073-10-0,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,5.47,1
+vinclozolin,C025643,50471-44-8,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,5.45,2
+Homocysteine,D006710,454-28-4,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,5.44,1
+Aldehydes,D000447,,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,5.42,1
+Acrylonitrile,D000181,107-13-1,Homocystinuria,MESH:D006712,,CBS,5.41,1
+Ethoxyquin,D005015,91-53-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.41,1
+Olanzapine,D000077152,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,5.39,1
+lanthanum chloride,C028521,10099-58-8,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.39,1
+pyrithione zinc,C010423,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.38,1
+cumene hydroperoxide,C007164,80-15-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.37,1
+Methylnitronitrosoguanidine,D008769,70-25-7,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,5.36,1
+Methionine,D008715,63-68-3,Homocystinuria,MESH:D006712,,CBS|MTRR,5.34,3
+Peroxynitrous Acid,D030421,14691-52-2,Homocystinuria,MESH:D006712,,CBS,5.33,1
+Choline,D002794,62-49-7,Homocystinuria,MESH:D006712,,CBS|MTRR,5.32,3
+Benzophenanthridines,D053119,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.32,1
+antimonite,C061374,39349-74-1,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.30,1
+"endotoxin, Escherichia coli",C044101,67924-63-4,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.30,1
+Retinoids,D012176,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.29,1
+Cysteine,D003545,52-90-4,Homocystinuria,MESH:D006712,,CBS,5.28,1
+Sulfasalazine,D012460,599-79-1,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,5.28,1
+Caffeine,D002110,58-08-2,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,5.27,1
+Pesticides,D010575,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,5.24,1
+phenylhydrazine,C030299,100-63-0,Homocystinuria,MESH:D006712,,CBS,5.23,1
+Maneb,D008344,12427-38-2,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,5.23,1
+Methoprene,D008726,40596-69-8,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,5.23,1
+Ammonia,D000641,7664-41-7,Homocystinuria,MESH:D006712,,MTRR,5.22,2
+oxophenylarsine,C029341,637-03-6,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.21,1
+afuresertib,C000593263,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,5.20,1
+dioscin,C019357,19057-60-4,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.20,1
+Styrene,D020058,100-42-5,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.20,1
+Acrylamide,D020106,79-06-1,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,5.19,2
+methyldithiocarbamate,C008435,144-54-7,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.19,1
+epoxiconazole,C109476,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,5.18,1
+2-Acetylaminofluorene,D015073,53-96-3,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,5.17,1
+cyproconazole,C093628,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,5.16,1
+artenimol,C039060,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.16,1
+isobutyl alcohol,C040507,78-83-1,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC,5.15,2
+Gold,D006046,7440-57-5,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,5.13,1
+rottlerin,C085746,82-08-6,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.13,1
+Vanadates,D014638,,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,5.12,1
+Vigabatrin,D020888,60643-86-9,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,5.12,1
+astaxanthine,C005948,472-61-7,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.12,1
+Olive Oil,D000069463,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.12,1
+Methyl Methanesulfonate,D008741,66-27-3,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,5.11,2
+Permethrin,D026023,52645-53-1,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,5.10,1
+DEET,D003671,134-62-3,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,5.09,1
+triphenyltin,C030665,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.09,1
+Ketolides,D048628,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,5.08,1
+"2-amino-14,16-dimethyloctadecan-3-ol",C507616,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.08,1
+Oxygen,D010100,7782-44-7,Homocystinuria,MESH:D006712,,CBS|MTRR,5.07,3
+Oleanolic Acid,D009828,508-02-1,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.07,1
+Gallic Acid,D005707,149-91-7,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,5.06,1
+Cadmium Chloride,D019256,10108-64-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,5.06,2
+lemongrass oil,C052901,8007-02-1,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.06,1
+Particulate Matter,D052638,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,5.05,2
+1-aminomethylphosphonic acid,C036423,1066-51-9,Homocystinuria,MESH:D006712,,CBS,5.04,1
+methoxyacetic acid,C013598,625-45-6,Homocystinuria,MESH:D006712,,MTRR,5.04,2
+Rotenone,D012402,83-79-4,Homocystinuria,MESH:D006712,,CBS|MTRR,5.04,3
+S-Adenosylmethionine,D012436,29908-03-0,Homocystinuria,MESH:D006712,,CBS,5.04,1
+n-butoxyethanol,C017096,111-76-2,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,5.04,1
+Proton Pump Inhibitors,D054328,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.04,1
+pentanal,C046012,110-62-3,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,5.03,1
+propiverine,C015586,60569-19-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.02,1
+Uric Acid,D014527,69-93-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.02,1
+arsenite,C015001,15502-74-6,Homocystinuria,MESH:D006712,,CBS|MTRR,5.00,3
+GW 4064,C412815,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,5.00,1
+"Asbestos, Amphibole",D017636,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.00,1
+naringenin,C005273,480-41-1,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,5.00,1
+4-(4-fluorophenyl)-2-(4-hydroxyphenyl)-5-(4-pyridyl)imidazole,C090942,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.99,1
+Manganese,D008345,7439-96-5,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC,4.99,2
+Pyridostigmine Bromide,D011729,101-26-8,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.98,1
+"Sodium Chloride, Dietary",D017673,,Homocystinuria,MESH:D006712,,CBS,4.97,1
+Carbon Tetrachloride,D002251,56-23-5,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,4.97,2
+Staurosporine,D019311,62996-74-1,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.97,1
+colistinmethanesulfonic acid,C004691,12705-41-8,Homocystinuria,MESH:D006712,,CBS,4.96,1
+Superoxides,D013481,11062-77-4,Homocystinuria,MESH:D006712,,CBS,4.96,1
+lead chloride,C029891,7758-95-4,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.96,1
+"Fatty Acids, Omega-3",D015525,,Homocystinuria,MESH:D006712,,CBS,4.95,1
+propiverine,C015586,60569-19-9,Homocystinuria,MESH:D006712,,CBS,4.95,1
+dimethyl phthalate,C024629,131-11-3,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.95,1
+"1,4-bis(2-(3,5-dichloropyridyloxy))benzene",C028474,76150-91-9,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.94,1
+Quartz,D011791,14808-60-7,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.94,1
+Uranium Compounds,D017974,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.94,1
+benoxacor,C085163,,Homocystinuria,MESH:D006712,,CBS,4.93,1
+Simvastatin,D019821,79902-63-9,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.93,1
+testosterone-3-carboxymethyloxime-bovine serum albumin conjugate,C045037,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.92,1
+phenanthrene,C031181,85-01-8,Homocystinuria,MESH:D006712,,CBS,4.91,1
+2-tert-butylhydroquinone,C018855,1948-33-0,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.91,1
+Pyrogallol,D011748,87-66-1,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.91,1
+bromobenzene,C032036,108-86-1,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.89,1
+"N-(2-(1,1'-bicyclopropyl)-2-ylphenyl)-3-(difluoromethyl)-1-methyl-1H-pyrazole-4-carboxamide",C583365,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.89,1
+Doxorubicin,D004317,23214-92-8,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,4.89,2
+Cytarabine,D003561,147-94-4,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.88,1
+Indomethacin,D007213,53-86-1,Homocystinuria,MESH:D006712,,CBS|MTRR,4.87,3
+Phenobarbital,D010634,50-06-6,Homocystinuria,MESH:D006712,,CBS|MTRR,4.87,3
+Atrazine,D001280,1912-24-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,4.87,2
+Diquat,D004178,2764-72-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.87,1
+pseudocumene,C010313,95-63-6,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.87,1
+dicyclohexyl phthalate,C036042,84-61-7,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.85,1
+procymidone,C035988,32809-16-8,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.85,1
+Arsenic,D001151,7440-38-2,Homocystinuria,MESH:D006712,,CBS|MTRR,4.84,3
+Antimony Potassium Tartrate,D000966,28300-74-5,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.84,1
+"Nanotubes, Carbon",D037742,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,4.84,2
+Potassium Dichromate,D011192,7778-50-9,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.83,1
+Warfarin,D014859,81-81-2,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.83,1
+Hyaluronic Acid,D006820,9004-61-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.83,1
+Nitrogen Dioxide,D009585,10102-44-0,Homocystinuria,MESH:D006712,,CBS,4.82,1
+"1,2,5,6-dibenzanthracene",C026486,53-70-3,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.82,1
+Clozapine,D003024,5786-21-0,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.82,1
+diphenylarsinic acid,C493087,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.81,1
+monomethyl phthalate,C517284,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.80,1
+Silicon Dioxide,D012822,7631-86-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,4.80,2
+methylmercuric chloride,C004925,115-09-3,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,4.79,2
+"2,6-dinitrotoluene",C023514,606-20-2,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.78,1
+Betaine,D001622,107-43-7,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.78,1
+phosphinothricin,C003121,51276-47-2,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.77,1
+Raloxifene Hydrochloride,D020849,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.77,1
+cerous chloride,C026690,7790-86-5,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.77,1
+Lipopolysaccharides,D008070,,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.76,1
+Phlorhizin,D010695,60-81-1,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.76,1
+alpha-Chlorohydrin,D000517,96-24-2,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.74,1
+Aerosols,D000336,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.74,1
+Asbestos,D001194,1332-21-4,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.74,1
+"2,4-diaminotoluene",C010914,95-80-7,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.73,1
+lead nitrate,C017461,18256-98-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.73,1
+fipronil,C082360,120068-37-3,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.72,1
+Methotrexate,D008727,59-05-2,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.71,1
+potassium chromate(VI),C027373,7789-00-6,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.71,1
+Venlafaxine Hydrochloride,D000069470,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.71,1
+Parathion,D010278,56-38-2,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.69,1
+Cyclosporine,D016572,59865-13-3,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,4.69,2
+Herbicides,D006540,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.69,1
+uranyl acetate,C005460,541-09-3,Homocystinuria,MESH:D006712,,CBS,4.67,1
+1-nitropyrene,C032668,5522-43-0,Homocystinuria,MESH:D006712,,CBS,4.65,1
+bathocuproine sulfonate,C028559,73348-75-1,Homocystinuria,MESH:D006712,,CBS,4.65,1
+3-(2-hydroxy-4-(2-methylnonan-2-yl)phenyl)cyclohexan-1-ol,C572491,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.65,1
+obeticholic acid,C464660,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.65,1
+Aldehydes,D000447,,Homocystinuria,MESH:D006712,,MTRR,4.64,2
+"4,4'-diaminodiphenylmethane",C009505,101-77-9,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.64,1
+Butyric Acid,D020148,107-92-6,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.64,1
+Gasoline,D005742,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC,4.64,2
+Herbicides,D006540,,Homocystinuria,MESH:D006712,,CBS,4.63,1
+Hydrogen Sulfide,D006862,7783-06-4,Homocystinuria,MESH:D006712,,CBS,4.62,1
+Methionine,D008715,63-68-3,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.62,1
+Streptozocin,D013311,18883-66-4,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.62,1
+Choline,D002794,62-49-7,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.61,1
+indole-3-carbinol,C016517,700-06-1,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.61,1
+"O,O-diethyl O-3,5,6-trichloro-2-pyridyl phosphate",C009618,5598-15-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.60,1
+Ursodeoxycholic Acid,D014580,128-13-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.60,1
+butyraldehyde,C018475,123-72-8,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.59,1
+Folic Acid,D005492,59-30-3,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,4.58,2
+Polycyclic Aromatic Hydrocarbons,D011084,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC,4.58,2
+Buthionine Sulfoximine,D019328,5072-26-4,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.57,1
+Ethinyl Estradiol,D004997,57-63-6,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,4.57,2
+N-nitrosomorpholine,C002741,59-89-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.57,1
+Sulfasalazine,D012460,599-79-1,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.57,1
+Dinoprostone,D015232,363-24-6,Homocystinuria,MESH:D006712,,CBS,4.56,1
+"2,4,4'-trichlorobiphenyl",C081766,7012-37-5,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.56,1
+pentanal,C046012,110-62-3,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.56,1
+Dactinomycin,D003609,50-76-0,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.56,1
+Sunitinib,D000077210,,Homocystinuria,MESH:D006712,,CBS|MTRR,4.55,3
+Hydrogen Peroxide,D006861,7722-84-1,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.55,1
+"2,4,5,2',5'-pentachlorobiphenyl",C009828,37680-73-2,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.55,1
+"2,3,5-(triglutathion-S-yl)hydroquinone",C078765,119212-33-8,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.55,1
+Hypochlorous Acid,D006997,7790-92-3,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.54,1
+vinylidene chloride,C029297,75-35-4,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC,4.54,2
+"1,2-Dimethylhydrazine",D019813,540-73-8,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,4.53,2
+NSC 689534,C558013,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC,4.53,2
+2-amino-2-methyl-1-propanol,C006551,124-68-5,Homocystinuria,MESH:D006712,,CBS,4.52,1
+2-chloro-N-(4-chlorobiphenyl-2-yl)nicotinamide,C550088,,Homocystinuria,MESH:D006712,,CBS,4.52,1
+Thiabendazole,D013827,148-79-8,Homocystinuria,MESH:D006712,,CBS,4.52,1
+Nickel,D009532,7440-02-0,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.52,1
+Oxygen,D010100,7782-44-7,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.52,1
+Rotenone,D012402,83-79-4,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.52,1
+benzo(b)fluoranthene,C006703,205-99-2,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.52,1
+"dibenzo(a,l)pyrene",C041517,191-30-0,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.52,1
+Maneb,D008344,12427-38-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.52,1
+Menthol,D008610,1490-04-6,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.52,1
+Thioacetamide,D013853,62-55-5,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,4.52,2
+N-nitrosomorpholine,C002741,59-89-2,Homocystinuria,MESH:D006712,,CBS,4.51,1
+diethyl maleate,C014476,141-05-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.51,1
+Metribolone,D015741,965-93-5,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.51,1
+arsenite,C015001,15502-74-6,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.50,1
+Fluorouracil,D005472,51-21-8,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.50,1
+Caffeine,D002110,58-08-2,Homocystinuria,MESH:D006712,,MTRR,4.49,2
+Ivermectin,D007559,70288-86-7,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.49,1
+Methamphetamine,D008694,537-46-2,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.49,1
+Rosiglitazone,D000077154,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.49,1
+fullerene C60,C069837,99685-96-8,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC,4.49,2
+kojic acid,C011890,501-30-4,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.48,1
+"2,5,2',5'-tetrachlorobiphenyl",C009407,35693-99-3,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.47,1
+decamethrin,C017180,52820-00-5,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.47,1
+PCB 180,C410127,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.47,1
+Indomethacin,D007213,53-86-1,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.46,1
+Phenobarbital,D010634,50-06-6,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.46,1
+tributyltin,C011559,688-73-3,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.46,1
+Captan,D002215,133-06-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.46,1
+SB 203580,C093642,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.46,1
+Arsenic,D001151,7440-38-2,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.45,1
+Glutathione,D005978,70-18-8,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.45,1
+naphthalene,C031721,91-20-3,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.43,1
+Reactive Oxygen Species,D017382,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.43,1
+Gold,D006046,7440-57-5,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.42,1
+"2,2',3',4,4',5-hexachlorobiphenyl",C029790,35065-28-2,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.41,1
+bis(4-hydroxyphenyl)sulfone,C543008,80-09-1,Homocystinuria,MESH:D006712,,CBS|MTRR,4.39,3
+Glutathione,D005978,70-18-8,Homocystinuria,MESH:D006712,,CBS,4.39,1
+perfluoro-n-nonanoic acid,C101816,375-95-1,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC,4.39,2
+imidacloprid,C082359,105827-78-9,Homocystinuria,MESH:D006712,,CBS,4.38,1
+vinclozolin,C025643,50471-44-8,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.38,1
+Reactive Oxygen Species,D017382,,Homocystinuria,MESH:D006712,,CBS,4.37,1
+muraglitazar,C500085,,Homocystinuria,MESH:D006712,,CBS,4.36,1
+CGP 52608,C092451,87958-67-6,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.36,1
+"2,4,5,2',4',5'-hexachlorobiphenyl",C014024,35065-27-1,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.36,1
+GSK-J4,C000593030,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.36,1
+cupric oxide,C030973,1317-38-0,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.36,1
+dimethyl-4-toluidine,C015835,99-97-8,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.36,1
+avobenzone,C049935,,Homocystinuria,MESH:D006712,,CBS,4.35,1
+Methyl Methanesulfonate,D008741,66-27-3,Homocystinuria,MESH:D006712,,CBS|MTRR,4.35,3
+Vanadates,D014638,,Homocystinuria,MESH:D006712,,MTRR,4.35,2
+Sunitinib,D000077210,,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.35,1
+bis(tri-n-butyltin)oxide,C005961,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.35,1
+folpet,C005020,133-07-3,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.35,1
+Palmitic Acid,D019308,57-10-3,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.35,1
+"2',3,3',4',5-pentachloro-4-hydroxybiphenyl",C111118,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.34,1
+"3,4,5,3',4'-pentachlorobiphenyl",C023035,57465-28-8,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.34,1
+Environmental Pollutants,D004785,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.34,1
+Ethyl Methanesulfonate,D005020,62-50-0,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC,4.34,2
+nickel monoxide,C028007,1313-99-1,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC,4.34,2
+nitrosobenzylmethylamine,C014707,937-40-6,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.34,1
+Permethrin,D026023,52645-53-1,Homocystinuria,MESH:D006712,,MTRR,4.33,2
+Amphetamine,D000661,300-62-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC,4.33,2
+Methimazole,D008713,60-56-0,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.33,1
+n-butoxyethanol,C017096,111-76-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.33,1
+DEET,D003671,134-62-3,Homocystinuria,MESH:D006712,,MTRR,4.32,2
+1-Methyl-4-phenylpyridinium,D015655,48134-75-4,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.32,1
+Silver,D012834,7440-22-4,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.32,1
+epigallocatechin gallate,C045651,989-51-5,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC,4.32,2
+tesaglitazar,C501413,,Homocystinuria,MESH:D006712,,CBS,4.31,1
+Calcitriol,D002117,32222-06-3,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.31,1
+Capsaicin,D002211,404-86-4,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.31,1
+Gallic Acid,D005707,149-91-7,Homocystinuria,MESH:D006712,,CBS,4.30,1
+nonylphenol,C025256,25154-52-3,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.30,1
+Tobacco Smoke Pollution,D014028,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,4.30,2
+bis(4-hydroxyphenyl)sulfone,C543008,80-09-1,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.29,1
+Environmental Pollutants,D004785,,Homocystinuria,MESH:D006712,,CBS,4.28,1
+nitrosobenzylmethylamine,C014707,937-40-6,Homocystinuria,MESH:D006712,,CBS,4.28,1
+"2,6-dinitrotoluene",C023514,606-20-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC,4.28,2
+pentanal,C046012,110-62-3,Homocystinuria,MESH:D006712,,MTRR,4.27,2
+Methyl Methanesulfonate,D008741,66-27-3,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.27,1
+Troglitazone,D000077288,97322-87-7,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.27,1
+2-methyl-2H-pyrazole-3-carboxylic acid (2-methyl-4-o-tolylazophenyl)amide,C511621,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.27,1
+benzyloxycarbonylleucyl-leucyl-leucine aldehyde,C072553,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.27,1
+Dichlorodiphenyl Dichloroethylene,D003633,72-55-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.26,1
+Aflatoxin B1,D016604,1162-65-8,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,4.25,2
+Sulindac,D013467,38194-50-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.25,1
+"2,2',4,4',5-brominated diphenyl ether",C477694,,Homocystinuria,MESH:D006712,,CBS,4.24,1
+Gentamicins,D005839,,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.24,1
+dimethyl phthalate,C024629,131-11-3,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.24,1
+picoxystrobin,C556557,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.24,1
+sodium arsenite,C017947,13768-07-5,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,4.24,2
+Carbon Tetrachloride,D002251,56-23-5,Homocystinuria,MESH:D006712,,CBS|MTRR,4.23,3
+Carbon Tetrachloride,D002251,56-23-5,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.23,1
+Methotrexate,D008727,59-05-2,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.23,1
+potassium chromate(VI),C027373,7789-00-6,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC,4.22,2
+Triiodothyronine,D014284,6893-02-3,Homocystinuria,MESH:D006712,,CBS,4.21,1
+"Asbestos, Crocidolite",D017638,12001-28-4,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.21,1
+azoxystrobin,C087670,131860-33-8,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.21,1
+Dichlorodiphenyl Dichloroethylene,D003633,72-55-9,Homocystinuria,MESH:D006712,,CBS,4.20,1
+Doxorubicin,D004317,23214-92-8,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.20,1
+Dinitrochlorobenzene,D004137,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.20,1
+1-Butanol,D020001,71-36-3,Homocystinuria,MESH:D006712,,CBS,4.19,1
+Tamoxifen,D013629,10540-29-1,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.19,1
+hydroquinone,C031927,123-31-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.19,1
+methylmercuric chloride,C004925,115-09-3,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.17,1
+Silicon Dioxide,D012822,7631-86-9,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.17,1
+Etoposide,D005047,33419-42-0,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.17,1
+Simvastatin,D019821,79902-63-9,Homocystinuria,MESH:D006712,,CBS,4.16,1
+"4,4'-diaminodiphenylmethane",C009505,101-77-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC,4.16,2
+4-hydroxy-2-nonenal,C027576,29343-52-0,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.16,1
+azoxystrobin,C087670,131860-33-8,Homocystinuria,MESH:D006712,,CBS,4.15,1
+Clofibric Acid,D002995,882-09-7,Homocystinuria,MESH:D006712,,CBS,4.15,1
+Ethanol,D000431,64-17-5,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.15,1
+Vehicle Emissions,D001335,,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.15,1
+Diethylnitrosamine,D004052,55-18-5,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.15,1
+"1,2-dithiol-3-thione",C049325,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.15,1
+cupric chloride,C029892,7447-39-4,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.15,1
+dicyclohexyl phthalate,C036042,84-61-7,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.15,1
+Grape Seed Proanthocyanidins,C511402,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.15,1
+Cyclosporine,D016572,59865-13-3,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.14,1
+Methionine,D008715,63-68-3,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.14,1
+hydroquinone,C031927,123-31-9,Homocystinuria,MESH:D006712,,CBS,4.13,1
+Choline,D002794,62-49-7,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.13,1
+p-Chloromercuribenzoic Acid,D020245,59-85-8,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.13,1
+Warfarin,D014859,81-81-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.13,1
+butyraldehyde,C018475,123-72-8,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.12,1
+sodium arsenate,C009277,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.12,1
+Ascorbic Acid,D001205,50-81-7,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.12,1
+Clozapine,D003024,5786-21-0,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.12,1
+deoxynivalenol,C007262,51481-10-8,Homocystinuria,MESH:D006712,,CBS,4.11,1
+Clobetasol,D002990,25122-41-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.11,1
+Blood Glucose,D001786,,Homocystinuria,MESH:D006712,,CBS,4.10,1
+Folic Acid,D005492,59-30-3,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.10,1
+Catechin,D002392,154-23-4,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.10,1
+Methapyrilene,D008701,91-80-5,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC,4.10,2
+monomethyl phthalate,C517284,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.10,1
+"Water Pollutants, Chemical",D014874,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.10,1
+Estradiol,D004958,50-28-2,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.09,1
+ethylene dichloride,C024565,107-06-2,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.09,1
+Tetrachloroethylene,D013750,127-18-4,Homocystinuria,MESH:D006712,,CBS,4.08,1
+"1,2-Dimethylhydrazine",D019813,540-73-8,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.08,1
+Thioacetamide,D013853,62-55-5,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,4.08,1
+Chlorpromazine,D002746,50-53-3,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.08,1
+methylmercuric chloride,C004925,115-09-3,Homocystinuria,MESH:D006712,,CBS|MTRR,4.07,3
+Silicon Dioxide,D012822,7631-86-9,Homocystinuria,MESH:D006712,,CBS|MTRR,4.07,3
+Antirheumatic Agents,D018501,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.07,1
+Ascorbic Acid,D001205,50-81-7,Homocystinuria,MESH:D006712,,CBS,4.06,1
+(+)-JQ1 compound,C561695,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.06,1
+Paraquat,D010269,4685-14-7,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.06,1
+"Air Pollutants, Occupational",D000395,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.06,1
+Finasteride,D018120,98319-26-7,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.06,1
+(+)-JQ1 compound,C561695,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC,4.06,2
+Tetracycline,D013752,60-54-8,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.06,1
+Acetaminophen,D000082,103-90-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,4.05,2
+mercuric bromide,C042720,7789-47-1,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.05,1
+"2,6-dinitrotoluene",C023514,606-20-2,Homocystinuria,MESH:D006712,,MTRR,4.04,2
+"2,2',4,4'-tetrabromodiphenyl ether",C511295,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.04,1
+Nickel,D009532,7440-02-0,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.04,1
+alpha-Chlorohydrin,D000517,96-24-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.04,1
+Ionomycin,D015759,56092-81-0,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC,4.04,2
+Ethanol,D000431,64-17-5,Homocystinuria,MESH:D006712,,CBS|MTRR,4.03,3
+Ionomycin,D015759,56092-81-0,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.03,1
+Urethane,D014520,51-79-6,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC,4.03,2
+Acetylcysteine,D000111,616-91-1,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.02,1
+Tetracycline,D013752,60-54-8,Homocystinuria,MESH:D006712,,CBS,4.01,1
+"tris(1,3-dichloro-2-propyl)phosphate",C016805,13674-87-8,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,4.01,1
+fipronil,C082360,120068-37-3,Homocystinuria,MESH:D006712,,MTRR,4.00,2
+Flavonoids,D005419,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,4.00,1
+Aflatoxin B1,D016604,1162-65-8,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,3.99,1
+Testosterone,D013739,58-22-0,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.99,1
+Dibutyl Phthalate,D003993,84-74-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC,3.99,2
+Tetradecanoylphorbol Acetate,D013755,16561-29-8,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC,3.99,2
+Cyclosporine,D016572,59865-13-3,Homocystinuria,MESH:D006712,,CBS|MTRR,3.98,3
+Methotrexate,D008727,59-05-2,Homocystinuria,MESH:D006712,,MTRR,3.98,2
+potassium chromate(VI),C027373,7789-00-6,Homocystinuria,MESH:D006712,,MTRR,3.98,2
+Arsenic,D001151,7440-38-2,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.98,1
+Tetradecanoylphorbol Acetate,D013755,16561-29-8,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.98,1
+Acetylcysteine,D000111,616-91-1,Homocystinuria,MESH:D006712,,CBS,3.97,1
+Ammonium Chloride,D000643,12125-02-9,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.97,1
+chloropicrin,C100187,76-06-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.97,1
+beta-Naphthoflavone,D019324,6051-87-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.96,1
+Methylcholanthrene,D008748,56-49-5,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.96,1
+Vancomycin,D014640,1404-90-6,Homocystinuria,MESH:D006712,,CBS,3.95,1
+Air Pollutants,D000393,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.95,1
+Methylmercury Compounds,D008767,,Homocystinuria,MESH:D006712,,CBS,3.94,1
+nickel chloride,C022838,7718-54-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.94,1
+nimesulide,C012655,51803-78-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.94,1
+"4,4'-diaminodiphenylmethane",C009505,101-77-9,Homocystinuria,MESH:D006712,,MTRR,3.93,2
+Gasoline,D005742,,Homocystinuria,MESH:D006712,,CBS,3.93,1
+Copper,D003300,7440-50-8,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.93,1
+Permethrin,D026023,52645-53-1,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.93,1
+Streptozocin,D013311,18883-66-4,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.93,1
+Diclofenac,D004008,15307-86-5,Homocystinuria,MESH:D006712,,CBS,3.92,1
+Dioxins,D004147,,Homocystinuria,MESH:D006712,,CBS,3.92,1
+Acetaminophen,D000082,103-90-2,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,3.92,1
+DEET,D003671,134-62-3,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.92,1
+benz(a)anthracene,C030935,56-55-3,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.91,1
+CGP 52608,C092451,87958-67-6,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC,3.91,2
+indole-3-carbinol,C016517,700-06-1,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.91,1
+Methylcholanthrene,D008748,56-49-5,Homocystinuria,MESH:D006712,,CBS,3.90,1
+Sunitinib,D000077210,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC,3.90,2
+butyraldehyde,C018475,123-72-8,Homocystinuria,MESH:D006712,,MTRR,3.89,2
+Folic Acid,D005492,59-30-3,Homocystinuria,MESH:D006712,,CBS|MTRR,3.89,3
+Mustard Gas,D009151,505-60-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.89,1
+ochratoxin A,C025589,303-47-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.89,1
+Vitamin K 3,D024483,58-27-5,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.89,1
+nickel chloride,C022838,7718-54-9,Homocystinuria,MESH:D006712,,CBS,3.88,1
+Dietary Fats,D004041,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.88,1
+Polycyclic Aromatic Hydrocarbons,D011084,,Homocystinuria,MESH:D006712,,CBS,3.87,1
+Streptozocin,D013311,18883-66-4,Homocystinuria,MESH:D006712,,CBS,3.87,1
+Sunitinib,D000077210,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.87,1
+Dihydrotestosterone,D013196,521-18-6,Homocystinuria,MESH:D006712,,CBS,3.86,1
+Thapsigargin,D019284,67526-95-8,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.86,1
+Hydrogen Peroxide,D006861,7722-84-1,Homocystinuria,MESH:D006712,,MTRR,3.85,2
+Sodium Selenite,D018038,10102-18-8,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.85,1
+Tetrachlorodibenzodioxin,D013749,1746-01-6,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,3.84,1
+abrine,C496492,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC,3.84,2
+Enzyme Inhibitors,D004791,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.84,1
+mono-(2-ethylhexyl)phthalate,C016599,4376-20-9,Homocystinuria,MESH:D006712,,CBS,3.83,1
+Nickel,D009532,7440-02-0,Homocystinuria,MESH:D006712,,MTRR,3.83,2
+Thioacetamide,D013853,62-55-5,Homocystinuria,MESH:D006712,,CBS|MTRR,3.83,3
+Valproic Acid,D014635,99-66-1,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,3.83,1
+Trichloroethylene,D014241,79-01-6,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.83,1
+aristolochic acid I,C000228,313-67-7,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC,3.83,2
+Pregnenolone Carbonitrile,D011285,1434-54-4,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.83,1
+bis(4-hydroxyphenyl)sulfone,C543008,80-09-1,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.82,1
+pirinixic acid,C006253,50892-23-4,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC,3.82,2
+Ribonucleotides,D012265,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.82,1
+Tetrachlorodibenzodioxin,D013749,1746-01-6,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,3.82,2
+Ivermectin,D007559,70288-86-7,Homocystinuria,MESH:D006712,,MTRR,3.81,2
+Methamphetamine,D008694,537-46-2,Homocystinuria,MESH:D006712,,MTRR,3.81,2
+Methyltestosterone,D008777,58-18-4,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.81,1
+Sodium Selenite,D018038,10102-18-8,Homocystinuria,MESH:D006712,,CBS,3.80,1
+TAK-243,C000622638,,Homocystinuria,MESH:D006712,,CBS,3.80,1
+Zoledronic Acid,D000077211,,Homocystinuria,MESH:D006712,,CBS,3.80,1
+abrine,C496492,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.80,1
+Methyl Methanesulfonate,D008741,66-27-3,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.80,1
+Diuron,D004237,330-54-1,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.80,1
+methidathion,C005828,950-37-8,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.80,1
+nefazodone,C051752,83366-66-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.80,1
+Enzyme Inhibitors,D004791,,Homocystinuria,MESH:D006712,,CBS,3.79,1
+aristolochic acid I,C000228,313-67-7,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.79,1
+Chlorodiphenyl (54% Chlorine),D020111,11097-69-1,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.79,1
+Fenthion,D005284,55-38-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.79,1
+Glucose,D005947,50-99-7,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.79,1
+Particulate Matter,D052638,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.78,1
+"1,4-bis(2-(3,5-dichloropyridyloxy))benzene",C028474,76150-91-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.78,1
+Valproic Acid,D014635,99-66-1,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,3.78,2
+glyphosate,C010974,1071-83-6,Homocystinuria,MESH:D006712,,CBS,3.77,1
+Ribonucleotides,D012265,,Homocystinuria,MESH:D006712,,CBS,3.77,1
+Gentamicins,D005839,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.77,1
+pirinixic acid,C006253,50892-23-4,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.77,1
+sulforaphane,C016766,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.77,1
+tributyltin,C011559,688-73-3,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.77,1
+Fluorouracil,D005472,51-21-8,Homocystinuria,MESH:D006712,,CBS,3.76,1
+methidathion,C005828,950-37-8,Homocystinuria,MESH:D006712,,CBS,3.76,1
+Carbon Tetrachloride,D002251,56-23-5,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.76,1
+Dexamethasone,D003907,50-02-2,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.76,1
+Rosiglitazone,D000077154,,Homocystinuria,MESH:D006712,,CBS,3.75,1
+Amiodarone,D000638,1951-25-3,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.75,1
+tetrabromobisphenol A,C020806,79-94-7,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.75,1
+alpha-pinene,C005451,80-56-8,Homocystinuria,MESH:D006712,,CBS,3.74,1
+Chlorodiphenyl (54% Chlorine),D020111,11097-69-1,Homocystinuria,MESH:D006712,,CBS,3.74,1
+Fenthion,D005284,55-38-9,Homocystinuria,MESH:D006712,,CBS,3.74,1
+Glucose,D005947,50-99-7,Homocystinuria,MESH:D006712,,CBS,3.74,1
+methacrylaldehyde,C039175,78-85-3,Homocystinuria,MESH:D006712,,CBS,3.74,1
+Mercuric Chloride,D008627,7487-94-7,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.74,1
+tert-Butylhydroperoxide,D020122,75-91-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.74,1
+"4-(4-((5-(4,5-dimethyl-2-nitrophenyl)-2-furanyl)methylene)-4,5-dihydro-3-methyl-5-oxo-1H-pyrazol-1-yl)benzoic acid",C584509,,Homocystinuria,MESH:D006712,,CBS,3.73,1
+propiconazole,C045950,60207-90-1,Homocystinuria,MESH:D006712,,CBS,3.73,1
+vinclozolin,C025643,50471-44-8,Homocystinuria,MESH:D006712,,MTRR,3.73,2
+Volatile Organic Compounds,D055549,,Homocystinuria,MESH:D006712,,CBS,3.73,1
+K 7174,C410337,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.73,1
+CGP 52608,C092451,87958-67-6,Homocystinuria,MESH:D006712,,MTRR,3.72,2
+triphenyl phosphate,C005445,115-86-6,Homocystinuria,MESH:D006712,,CBS,3.72,1
+Chlordecone,D007631,143-50-0,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.72,1
+perfluorooctanesulfonamide,C063900,754-91-6,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.72,1
+Selenium,D012643,7782-49-2,Homocystinuria,MESH:D006712,,CBS,3.71,1
+tetrabromobisphenol A,C020806,79-94-7,Homocystinuria,MESH:D006712,,CBS,3.71,1
+"Nanotubes, Carbon",D037742,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.71,1
+Acrolein,D000171,107-02-8,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.71,1
+Tungsten,D014414,7440-33-7,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.71,1
+AZM551248,C547126,,Homocystinuria,MESH:D006712,,CBS,3.70,1
+tert-Butylhydroperoxide,D020122,75-91-2,Homocystinuria,MESH:D006712,,CBS,3.70,1
+chromium hexavalent ion,C074702,18540-29-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.70,1
+sodium bichromate,C016104,10588-01-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.70,1
+Tunicamycin,D014415,11089-65-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.70,1
+K 7174,C410337,,Homocystinuria,MESH:D006712,,CBS,3.69,1
+Tretinoin,D014212,302-79-4,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.69,1
+lead acetate,C008261,301-04-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.69,1
+Chlordecone,D007631,143-50-0,Homocystinuria,MESH:D006712,,CBS,3.68,1
+Potassium Dichromate,D011192,7778-50-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.67,1
+Sodium Fluoride,D012969,7681-49-4,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.67,1
+Acrolein,D000171,107-02-8,Homocystinuria,MESH:D006712,,CBS,3.66,1
+Tunicamycin,D014415,11089-65-9,Homocystinuria,MESH:D006712,,CBS,3.66,1
+bisphenol A,C006780,80-05-7,"Homocystinuria-Megaloblastic Anemia due to Defect in Cobalamin Metabolism, CblE Complementation Type",MESH:C565510,,MTRR,3.66,1
+Soot,D053260,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.66,1
+"2,3,7,8-tetrachlorodibenzofuran",C014211,51207-31-9,Homocystinuria,MESH:D006712,,CBS,3.65,1
+Gentamicins,D005839,,Homocystinuria,MESH:D006712,,MTRR,3.65,2
+schizandrin B,C015499,,Homocystinuria,MESH:D006712,,CBS,3.65,1
+1-Methyl-4-phenylpyridinium,D015655,48134-75-4,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.64,1
+Folic Acid,D005492,59-30-3,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.63,1
+Calcitriol,D002117,32222-06-3,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.63,1
+Aflatoxin B1,D016604,1162-65-8,Homocystinuria,MESH:D006712,,CBS|MTRR,3.62,3
+Carbamazepine,D002220,298-46-4,Homocystinuria,MESH:D006712,,CBS,3.62,1
+Doxorubicin,D004317,23214-92-8,Homocystinuria,MESH:D006712,,MTRR,3.62,2
+Estradiol,D004958,50-28-2,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.62,1
+Ethinyl Estradiol,D004997,57-63-6,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.62,1
+Benzo(a)pyrene,D001564,50-32-8,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,3.62,2
+1-Methyl-4-phenylpyridinium,D015655,48134-75-4,Homocystinuria,MESH:D006712,,CBS,3.61,1
+Lipopolysaccharides,D008070,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.61,1
+Vehicle Emissions,D001335,,Homocystinuria,MESH:D006712,,MTRR,3.60,2
+Vorinostat,D000077337,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.60,1
+Zinc,D015032,7440-66-6,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.60,1
+"2,4-dinitrotoluene",C016403,121-14-2,Homocystinuria,MESH:D006712,,CBS,3.59,1
+T-2 Toxin,D013605,21259-20-1,Homocystinuria,MESH:D006712,,CBS,3.59,1
+Troglitazone,D000077288,97322-87-7,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.59,1
+fipronil,C082360,120068-37-3,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.58,1
+"1,2-Dimethylhydrazine",D019813,540-73-8,Homocystinuria,MESH:D006712,,MTRR,3.57,2
+entinostat,C118739,,Homocystinuria,MESH:D006712,,CBS,3.57,1
+Estradiol,D004958,50-28-2,Homocystinuria,MESH:D006712,,MTRR,3.57,2
+Lead,D007854,7439-92-1,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.57,1
+Troglitazone,D000077288,97322-87-7,Homocystinuria,MESH:D006712,,CBS,3.56,1
+ICG 001,C492448,,Homocystinuria,MESH:D006712,,CBS,3.54,1
+Phenylmercuric Acetate,D010662,62-38-4,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.54,1
+Chlorpyrifos,D004390,2921-88-2,Homocystinuria,MESH:D006712,,CBS,3.53,1
+Tobacco Smoke Pollution,D014028,,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.53,1
+Cadmium,D002104,7440-43-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.53,1
+Aflatoxin B1,D016604,1162-65-8,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.52,1
+sodium arsenite,C017947,13768-07-5,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.51,1
+Triclosan,D014260,3380-34-5,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.51,1
+Cadmium,D002104,7440-43-9,Homocystinuria,MESH:D006712,,CBS,3.50,1
+manganese chloride,C025340,7773-01-5,Homocystinuria,MESH:D006712,,CBS,3.50,1
+Lactic Acid,D019344,50-21-5,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.50,1
+perfluorooctane sulfonic acid,C076994,1763-23-1,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.49,1
+Diethylnitrosamine,D004052,55-18-5,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.48,1
+Acetaminophen,D000082,103-90-2,Homocystinuria,MESH:D006712,,CBS|MTRR,3.47,3
+Lactic Acid,D019344,50-21-5,Homocystinuria,MESH:D006712,,CBS,3.47,1
+Cuprizone,D003471,370-81-0,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.47,1
+Diethylnitrosamine,D004052,55-18-5,Homocystinuria,MESH:D006712,,CBS,3.46,1
+Arsenic Trioxide,D000077237,1327-53-3,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.46,1
+sodium arsenate,C009277,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.46,1
+Cuprizone,D003471,370-81-0,Homocystinuria,MESH:D006712,,CBS,3.45,1
+Acetaminophen,D000082,103-90-2,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.45,1
+furan,C039281,110-00-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.45,1
+Ozone,D010126,10028-15-6,Homocystinuria,MESH:D006712,,CBS,3.44,1
+acetamide,C030686,60-35-5,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.44,1
+Diethylhexyl Phthalate,D004051,117-81-7,Homocystinuria,MESH:D006712,,CBS,3.43,1
+Methapyrilene,D008701,91-80-5,Homocystinuria,MESH:D006712,,CBS,3.43,1
+perfluorooctanoic acid,C023036,335-67-1,Homocystinuria,MESH:D006712,,CBS,3.43,1
+ethylene dichloride,C024565,107-06-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.43,1
+Flutamide,D005485,13311-84-7,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.43,1
+acetamide,C030686,60-35-5,Homocystinuria,MESH:D006712,,CBS,3.42,1
+Hydrogen Peroxide,D006861,7722-84-1,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.42,1
+Quercetin,D011794,117-39-5,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.42,1
+Formaldehyde,D005557,50-00-0,Homocystinuria,MESH:D006712,,CBS,3.41,1
+Quercetin,D011794,117-39-5,Homocystinuria,MESH:D006712,,CBS,3.41,1
+Genistein,D019833,446-72-0,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.41,1
+Genistein,D019833,446-72-0,Homocystinuria,MESH:D006712,,CBS,3.40,1
+Paraquat,D010269,4685-14-7,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.40,1
+(+)-JQ1 compound,C561695,,Homocystinuria,MESH:D006712,,CBS,3.39,1
+"2,2',4,4'-tetrabromodiphenyl ether",C511295,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.39,1
+Dronabinol,D013759,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.39,1
+Nickel,D009532,7440-02-0,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.39,1
+Oxygen,D010100,7782-44-7,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.39,1
+Rotenone,D012402,83-79-4,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.39,1
+Progesterone,D011374,57-83-0,Homocystinuria,MESH:D006712,,CBS,3.38,1
+arsenite,C015001,15502-74-6,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.38,1
+Ionomycin,D015759,56092-81-0,Homocystinuria,MESH:D006712,,CBS,3.37,1
+Tetrachlorodibenzodioxin,D013749,1746-01-6,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.37,1
+Ivermectin,D007559,70288-86-7,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.37,1
+Endosulfan,D004726,115-29-7,Homocystinuria,MESH:D006712,,CBS,3.36,1
+cobaltous chloride,C018021,7646-79-9,Homocystinuria,MESH:D006712,,CBS,3.35,1
+"tris(1,3-dichloro-2-propyl)phosphate",C016805,13674-87-8,Homocystinuria,MESH:D006712,,CBS,3.35,1
+Valproic Acid,D014635,99-66-1,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.35,1
+Testosterone,D013739,58-22-0,Homocystinuria,MESH:D006712,,CBS,3.34,1
+Phenobarbital,D010634,50-06-6,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.34,1
+Tetradecanoylphorbol Acetate,D013755,16561-29-8,Homocystinuria,MESH:D006712,,CBS,3.33,1
+Arsenic,D001151,7440-38-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.33,1
+bisphenol A,C006780,80-05-7,Methylmalonic acidemia with homocystinuria,MESH:C537359,,MMACHC|PRDX1,3.33,2
+Propylthiouracil,D011441,51-52-5,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.33,1
+Plant Extracts,D010936,,Homocystinuria,MESH:D006712,,CBS,3.32,1
+Ammonium Chloride,D000643,12125-02-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.32,1
+Air Pollutants,D000393,,Homocystinuria,MESH:D006712,,CBS,3.31,1
+Air Pollutants,D000393,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.31,1
+Copper,D003300,7440-50-8,Homocystinuria,MESH:D006712,,CBS,3.30,1
+Tetrachlorodibenzodioxin,D013749,1746-01-6,Homocystinuria,MESH:D006712,,CBS|MTRR,3.30,3
+Benzo(a)pyrene,D001564,50-32-8,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.30,1
+jinfukang,C544151,,Homocystinuria,MESH:D006712,,CBS,3.28,1
+Valproic Acid,D014635,99-66-1,Homocystinuria,MESH:D006712,,CBS|MTRR,3.28,3
+trichostatin A,C012589,58880-19-6,Homocystinuria,MESH:D006712,,CBS,3.27,1
+jinfukang,C544151,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.27,1
+"4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide",C459179,,Homocystinuria,MESH:D006712,,CBS,3.26,1
+Dietary Fats,D004041,,Homocystinuria,MESH:D006712,,CBS,3.26,1
+triptonide,C084079,38647-11-9,Homocystinuria,MESH:D006712,,CBS,3.26,1
+dorsomorphin,C516138,,Homocystinuria,MESH:D006712,,CBS,3.25,1
+"4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide",C459179,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.25,1
+Dietary Fats,D004041,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.25,1
+trichostatin A,C012589,58880-19-6,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.25,1
+triptonide,C084079,38647-11-9,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.25,1
+Copper Sulfate,D019327,7758-98-7,Homocystinuria,MESH:D006712,,CBS,3.24,1
+Trichloroethylene,D014241,79-01-6,Homocystinuria,MESH:D006712,,CBS,3.23,1
+dorsomorphin,C516138,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.23,1
+titanium dioxide,C009495,13463-67-7,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.22,1
+abrine,C496492,,Homocystinuria,MESH:D006712,,CBS,3.21,1
+Cadmium Chloride,D019256,10108-64-2,Homocystinuria,MESH:D006712,,CBS,3.20,1
+Particulate Matter,D052638,,Homocystinuria,MESH:D006712,,CBS,3.20,1
+Resveratrol,D000077185,,Homocystinuria,MESH:D006712,,CBS,3.20,1
+Trichloroethylene,D014241,79-01-6,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.20,1
+pirinixic acid,C006253,50892-23-4,Homocystinuria,MESH:D006712,,CBS,3.19,1
+bisphenol A,C006780,80-05-7,Methylenetetrahydrofolate reductase deficiency,MESH:C537357,,MTHFR,3.18,1
+Resveratrol,D000077185,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.17,1
+Cisplatin,D002945,15663-27-1,Homocystinuria,MESH:D006712,,CBS,3.16,1
+"Nanotubes, Carbon",D037742,,Homocystinuria,MESH:D006712,,CBS,3.16,1
+Gentamicins,D005839,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.16,1
+Tretinoin,D014212,302-79-4,Homocystinuria,MESH:D006712,,CBS,3.15,1
+Dexamethasone,D003907,50-02-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.15,1
+Cisplatin,D002945,15663-27-1,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.11,1
+Benzo(a)pyrene,D001564,50-32-8,Homocystinuria,MESH:D006712,,CBS,3.10,1
+Tretinoin,D014212,302-79-4,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.10,1
+sodium arsenite,C017947,13768-07-5,Homocystinuria,MESH:D006712,,CBS,3.09,1
+Tobacco Smoke Pollution,D014028,,Homocystinuria,MESH:D006712,,CBS,3.09,1
+Ethanol,D000431,64-17-5,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.09,1
+Vehicle Emissions,D001335,,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.09,1
+Estradiol,D004958,50-28-2,Methylmalonic acidemia with homocystinuria,MESH:C537359,,PRDX1,3.05,1
+bisphenol A,C006780,80-05-7,Homocystinuria,MESH:D006712,,CBS|MTRR,3.03,3

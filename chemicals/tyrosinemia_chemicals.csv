@@ -1,0 +1,366 @@
+Chemical Name,Chemical ID,CAS RN,Disease Name,Disease ID,Direct Evidence,Inference Network,Inference Score,Reference Count
+Aminolevulinic Acid,D000622,106-60-5,Tyrosinemias,MESH:D020176,marker/mechanism,,,1
+Carbamazepine,D002220,298-46-4,Tyrosinemias,MESH:D020176,marker/mechanism,,,1
+nitisinone,C077073,,Tyrosinemias,MESH:D020176,therapeutic,HPD,6.76,3
+fenoxycarb,C052034,72490-01-8,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,13.14,5
+Methoprene,D008726,40596-69-8,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,13.01,5
+Dimethylnitrosamine,D004128,62-75-9,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,10.62,5
+diphenylarsinic acid,C493087,,Tyrosinemias,MESH:D020176,,FAH|HPD,9.41,4
+Herbicides,D006540,,Tyrosinemias,MESH:D020176,,FAH|HPD,9.02,4
+Hydrocortisone,D006854,50-23-7,Tyrosinemias,MESH:D020176,,FAH|TAT,8.27,4
+mesotrione,C432907,,Hawkinsinuria,MESH:C535845,,HPD,8.21,1
+"3,4,5,3',4'-pentachlorobiphenyl",C023035,57465-28-8,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,8.09,5
+"2,4-dinitrotoluene",C016403,121-14-2,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,7.90,5
+Environmental Pollutants,D004785,,Tyrosinemias,MESH:D020176,,FAH|TAT,7.78,4
+nitisinone,C077073,,Hawkinsinuria,MESH:C535845,,HPD,7.66,1
+Mifepristone,D015735,84371-65-3,Tyrosinemias,MESH:D020176,,FAH|TAT,7.61,4
+Ultroser G,C044609,,Tyrosinemias,MESH:D020176,,TAT,7.45,1
+mesotrione,C432907,,Tyrosinemias,MESH:D020176,,HPD,7.31,1
+bromobenzene,C032036,108-86-1,Tyrosinemias,MESH:D020176,,FAH|TAT,7.28,4
+Triclosan,D014260,3380-34-5,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,7.27,5
+Ciguatoxins,D002922,11050-21-8,Tyrosinemias,MESH:D020176,,HPD|TAT,7.14,2
+"(3b,5b,7a,12a)-7,12-dihydroxy-3-(2-((4-((11b,17b)-17-hydroxy-3-oxo-17-prop-1-ynylestra-4,9-dien-11-yl) phenyl)(methyl)amino)ethoxy)cholan-24-oic acid",C503101,,Tyrosinemias,MESH:D020176,,TAT,7.10,1
+tris(2-butoxyethyl) phosphate,C013320,78-51-3,Tyrosinemias,MESH:D020176,,FAH|HPD,6.92,4
+furan,C039281,110-00-9,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,6.91,5
+perfluorooctanoic acid,C023036,335-67-1,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,6.91,5
+Methapyrilene,D008701,91-80-5,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,6.87,5
+Vancomycin,D014640,1404-90-6,Tyrosinemias,MESH:D020176,,FAH|HPD,6.78,4
+triptolide,C001899,38748-32-2,Tyrosinemias,MESH:D020176,,HPD|TAT,6.69,2
+methyleugenol,C005223,93-15-2,Tyrosinemias,MESH:D020176,,HPD|TAT,6.63,2
+Methyldimethylaminoazobenzene,D008749,55-80-1,Tyrosinemias,MESH:D020176,,TAT,6.55,1
+"2,3,7,8-tetrabromodibenzo-4-dioxin",C066841,50585-41-6,Hawkinsinuria,MESH:C535845,,HPD,6.52,1
+nitrofen,C007350,,Tyrosinemias,MESH:D020176,,FAH|HPD,6.51,4
+"R-1,1,1-trifluoro-4-(5-fluoro-2,3-dihydrobenzofuran-7-yl)-4-methyl-2-(((2-methyl-5-quinolyl)amino)methyl)pentan-2-ol",C546413,,Tyrosinemias,MESH:D020176,,TAT,6.48,1
+doramapimod,C452139,,Hawkinsinuria,MESH:C535845,,HPD,6.42,1
+"N-dichlorofluoromethylthio-N',N'-dimethyl-N-p-tolylsulfamide",C070021,731-27-1,Tyrosinemias,MESH:D020176,,TAT,6.41,1
+Sphingosine,D013110,123-78-4,Tyrosinemias,MESH:D020176,,TAT,6.35,1
+"1,4-dihydropyridine",C038806,3337-17-5,Tyrosinemias,MESH:D020176,,TAT,6.30,1
+methylprednisolone aceponate,C078007,,Tyrosinemias,MESH:D020176,,TAT,6.30,1
+SDZ 51641,C066198,91456-99-4,Tyrosinemias,MESH:D020176,,TAT,6.17,1
+1-aminomethylphosphonic acid,C036423,1066-51-9,Hawkinsinuria,MESH:C535845,,HPD,6.14,1
+Ammonium Chloride,D000643,12125-02-9,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,6.14,5
+methidathion,C005828,950-37-8,Tyrosinemias,MESH:D020176,,FAH|HPD,6.11,4
+Fluorouracil,D005472,51-21-8,Tyrosinemias,MESH:D020176,,FAH|TAT,6.05,4
+SDZ CPI 975,C110822,,Tyrosinemias,MESH:D020176,,TAT,6.03,1
+Obidoxime Chloride,D009768,114-90-9,Tyrosinemias,MESH:D020176,,TAT,6.00,1
+ethylisopropylamiloride,C039614,1154-25-2,Tyrosinemias,MESH:D020176,,FAH,5.99,3
+o-Aminoazotoluene,D009762,97-56-3,Tyrosinemias,MESH:D020176,,TAT,5.98,1
+"lipopolysaccharide, E coli O55-B5",C482199,,Tyrosinemias,MESH:D020176,,HPD|TAT,5.96,2
+Selenium,D012643,7782-49-2,Tyrosinemias,MESH:D020176,,FAH|HPD,5.94,4
+SDZ FOX 988,C094089,,Tyrosinemias,MESH:D020176,,TAT,5.90,1
+diphenylarsinic acid,C493087,,Hawkinsinuria,MESH:C535845,,HPD,5.84,1
+Mometasone Furoate,D000068656,,Tyrosinemias,MESH:D020176,,TAT,5.84,1
+acephate,C001969,30560-19-1,Tyrosinemias,MESH:D020176,,TAT,5.78,1
+Aminooxyacetic Acid,D000625,645-88-5,Tyrosinemias,MESH:D020176,,TAT,5.78,1
+Organic Chemicals,D009930,,Tyrosinemias,MESH:D020176,,TAT,5.77,1
+CGP 52608,C092451,87958-67-6,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,5.73,5
+Herbicides,D006540,,Hawkinsinuria,MESH:C535845,,HPD,5.71,1
+sodium bichromate,C016104,10588-01-9,Tyrosinemias,MESH:D020176,,FAH|TAT,5.71,4
+perfluorodecanesulfonic acid,C000720114,,Tyrosinemias,MESH:D020176,,FAH,5.68,3
+lead acetate,C008261,301-04-2,Tyrosinemias,MESH:D020176,,FAH|TAT,5.66,4
+"2',3,3',4',5-pentachloro-4-hydroxybiphenyl",C111118,,Tyrosinemias,MESH:D020176,,FAH|HPD,5.63,4
+tremolite,C005846,14567-73-8,Hawkinsinuria,MESH:C535845,,HPD,5.62,1
+"2,3,7,8-tetrabromodibenzo-4-dioxin",C066841,50585-41-6,Tyrosinemias,MESH:D020176,,HPD,5.62,1
+N-nitrosomorpholine,C002741,59-89-2,Hawkinsinuria,MESH:C535845,,HPD,5.59,1
+fenoxycarb,C052034,72490-01-8,Hawkinsinuria,MESH:C535845,,HPD,5.56,1
+Soot,D053260,,Tyrosinemias,MESH:D020176,,FAH|TAT,5.56,4
+Methoprene,D008726,40596-69-8,Hawkinsinuria,MESH:C535845,,HPD,5.54,1
+benzo(e)pyrene,C026487,192-97-2,Tyrosinemias,MESH:D020176,,FAH|HPD,5.54,4
+doramapimod,C452139,,Tyrosinemias,MESH:D020176,,HPD,5.53,1
+beryllium sulfate,C020711,13510-49-1,Tyrosinemias,MESH:D020176,,TAT,5.50,1
+Bromine,D001966,7726-95-6,Tyrosinemias,MESH:D020176,,TAT,5.50,1
+perfluoroundecanoic acid,C586085,,Hawkinsinuria,MESH:C535845,,HPD,5.46,1
+diphenyldiselenide,C061132,1666-13-3,Tyrosinemias,MESH:D020176,,TAT,5.42,1
+Mirex,D008917,2385-85-5,Tyrosinemias,MESH:D020176,,TAT,5.42,1
+Flame Retardants,D005411,,Hawkinsinuria,MESH:C535845,,HPD,5.41,1
+tamibarotene,C061133,94497-51-5,Hawkinsinuria,MESH:C535845,,HPD,5.34,1
+Desoxycorticosterone,D003900,64-85-7,Tyrosinemias,MESH:D020176,,TAT,5.33,1
+Troglitazone,D000077288,97322-87-7,Tyrosinemias,MESH:D020176,,FAH|TAT,5.33,4
+Chlorpyrifos,D004390,2921-88-2,Tyrosinemias,MESH:D020176,,HPD|TAT,5.28,2
+ebselen,C042986,60940-34-3,Tyrosinemias,MESH:D020176,,TAT,5.27,1
+1-aminomethylphosphonic acid,C036423,1066-51-9,Tyrosinemias,MESH:D020176,,HPD,5.24,1
+perfluorobutanesulfonic acid,C539348,,Tyrosinemias,MESH:D020176,,FAH,5.24,3
+Cadmium Chloride,D019256,10108-64-2,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,5.19,5
+"1,2-dithiol-3-thione",C049325,,Hawkinsinuria,MESH:C535845,,HPD,5.17,1
+glycidol,C004312,556-52-5,Hawkinsinuria,MESH:C535845,,HPD,5.17,1
+Tetrachloroethylene,D013750,127-18-4,Hawkinsinuria,MESH:C535845,,HPD,5.16,1
+Clofibrate,D002994,637-07-0,Tyrosinemias,MESH:D020176,,FAH|TAT,5.15,4
+Ciguatoxins,D002922,11050-21-8,Hawkinsinuria,MESH:C535845,,HPD,5.14,1
+3-(4-pyridyl)-1H-indole,C569798,,Tyrosinemias,MESH:D020176,,FAH,5.14,3
+pirinixic acid,C006253,50892-23-4,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,5.13,5
+Zinc Sulfate,D019287,7733-02-0,Hawkinsinuria,MESH:C535845,,HPD,5.12,1
+Dimethylnitrosamine,D004128,62-75-9,Hawkinsinuria,MESH:C535845,,HPD,5.11,1
+"4,4'-diaminodiphenylmethane",C009505,101-77-9,Tyrosinemias,MESH:D020176,,HPD|TAT,5.11,2
+Benzoates,D001565,,Tyrosinemias,MESH:D020176,,FAH,5.10,3
+bromochloroacetic acid,C099813,,Tyrosinemias,MESH:D020176,,TAT,5.09,1
+Aldosterone,D000450,52-39-1,Tyrosinemias,MESH:D020176,,TAT,5.08,1
+Hexachlorocyclohexane,D001556,,Hawkinsinuria,MESH:C535845,,HPD,5.07,1
+pentabromodiphenyl ether,C086401,32534-81-9,Hawkinsinuria,MESH:C535845,,HPD,5.07,1
+LDN 193189,C554430,,Tyrosinemias,MESH:D020176,,FAH,5.07,3
+tris(2-butoxyethyl) phosphate,C013320,78-51-3,Hawkinsinuria,MESH:C535845,,HPD,5.06,1
+Carbon Tetrachloride,D002251,56-23-5,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,5.06,5
+Diethylnitrosamine,D004052,55-18-5,Tyrosinemias,MESH:D020176,,HPD|TAT,5.04,2
+Bosentan,D000077300,147536-97-8,Tyrosinemias,MESH:D020176,,TAT,5.03,1
+Vancomycin,D014640,1404-90-6,Hawkinsinuria,MESH:C535845,,HPD,5.02,1
+ascorbate-2-phosphate,C011669,23313-12-4,Tyrosinemias,MESH:D020176,,FAH,5.02,3
+perfluorooctane sulfonic acid,C076994,1763-23-1,Tyrosinemias,MESH:D020176,,FAH|TAT,5.02,4
+Methylmercury Compounds,D008767,,Hawkinsinuria,MESH:C535845,,HPD,5.01,1
+Cuprizone,D003471,370-81-0,Tyrosinemias,MESH:D020176,,FAH|HPD,5.01,4
+triptolide,C001899,38748-32-2,Hawkinsinuria,MESH:C535845,,HPD,5.00,1
+Glucocorticoids,D005938,,Tyrosinemias,MESH:D020176,,TAT,5.00,1
+XAV939,C544261,,Tyrosinemias,MESH:D020176,,FAH,5.00,3
+methyleugenol,C005223,93-15-2,Hawkinsinuria,MESH:C535845,,HPD,4.98,1
+Calcimycin,D000001,52665-69-7,Tyrosinemias,MESH:D020176,,TAT,4.98,1
+tetrahydropalmatine,C014215,10097-84-4,Tyrosinemias,MESH:D020176,,FAH,4.98,3
+Succimer,D004113,304-55-2,Hawkinsinuria,MESH:C535845,,HPD,4.95,1
+acetamide,C030686,60-35-5,Tyrosinemias,MESH:D020176,,FAH|HPD,4.94,4
+Magnetite Nanoparticles,D058185,,Hawkinsinuria,MESH:C535845,,HPD,4.93,1
+nitrofen,C007350,,Hawkinsinuria,MESH:C535845,,HPD,4.93,1
+"4-(2-(5,6,7,8-tetrahydro-5,5,8,8-tetramethyl-2-naphthalenyl)-1-propenyl)benzoic acid",C038864,71441-28-6,Tyrosinemias,MESH:D020176,,FAH,4.93,3
+Ozone,D010126,10028-15-6,Tyrosinemias,MESH:D020176,,FAH|TAT,4.91,4
+Pyrogallol,D011748,87-66-1,Tyrosinemias,MESH:D020176,,FAH,4.90,3
+Acetic Acid,D019342,64-19-7,Tyrosinemias,MESH:D020176,,TAT,4.87,1
+Chir 99021,C473711,,Tyrosinemias,MESH:D020176,,FAH,4.86,3
+Corn Oil,D003314,8001-30-7,Tyrosinemias,MESH:D020176,,TAT,4.85,1
+chlorpyrifos-methyl,C007031,5598-13-0,Tyrosinemias,MESH:D020176,,TAT,4.84,1
+2-nitrofluorene,C019499,607-57-8,Tyrosinemias,MESH:D020176,,TAT,4.83,1
+ursodoxicoltaurine,C031655,,Tyrosinemias,MESH:D020176,,FAH,4.83,3
+methidathion,C005828,950-37-8,Hawkinsinuria,MESH:C535845,,HPD,4.81,1
+Cisplatin,D002945,15663-27-1,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,4.81,5
+Atropine,D001285,51-55-8,Tyrosinemias,MESH:D020176,,TAT,4.79,1
+"2,5,2',5'-tetrachlorobiphenyl",C009407,35693-99-3,Hawkinsinuria,MESH:C535845,,HPD,4.78,1
+decamethrin,C017180,52820-00-5,Hawkinsinuria,MESH:C535845,,HPD,4.78,1
+PCB 180,C410127,,Hawkinsinuria,MESH:C535845,,HPD,4.78,1
+Aluminum,D000535,7429-90-5,Hawkinsinuria,MESH:C535845,,HPD,4.76,1
+Cocaine,D003042,50-36-2,Hawkinsinuria,MESH:C535845,,HPD,4.76,1
+"lipopolysaccharide, E coli O55-B5",C482199,,Hawkinsinuria,MESH:C535845,,HPD,4.76,1
+Dichlorvos,D004006,62-73-7,Tyrosinemias,MESH:D020176,,TAT,4.76,1
+Silymarin,D012838,,Tyrosinemias,MESH:D020176,,FAH,4.76,3
+Selenium,D012643,7782-49-2,Hawkinsinuria,MESH:C535845,,HPD,4.75,1
+propionaldehyde,C005556,123-38-6,Hawkinsinuria,MESH:C535845,,HPD,4.74,1
+K 7174,C410337,,Hawkinsinuria,MESH:C535845,,HPD,4.73,1
+Nickel,D009532,7440-02-0,Tyrosinemias,MESH:D020176,,HPD|TAT,4.73,2
+tremolite,C005846,14567-73-8,Tyrosinemias,MESH:D020176,,HPD,4.73,1
+Ginkgo biloba extract,C063170,,Tyrosinemias,MESH:D020176,,TAT,4.71,1
+N-nitrosomorpholine,C002741,59-89-2,Tyrosinemias,MESH:D020176,,HPD,4.71,1
+Tretinoin,D014212,302-79-4,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,4.71,5
+"2,4,5,2',4',5'-hexachlorobiphenyl",C014024,35065-27-1,Hawkinsinuria,MESH:C535845,,HPD,4.67,1
+Potassium Dichromate,D011192,7778-50-9,Hawkinsinuria,MESH:C535845,,HPD,4.66,1
+cobaltous chloride,C018021,7646-79-9,Tyrosinemias,MESH:D020176,,FAH|HPD,4.66,4
+"2',3,3',4',5-pentachloro-4-hydroxybiphenyl",C111118,,Hawkinsinuria,MESH:C535845,,HPD,4.65,1
+"3,4,5,3',4'-pentachlorobiphenyl",C023035,57465-28-8,Hawkinsinuria,MESH:C535845,,HPD,4.65,1
+Diazepam,D003975,439-14-5,Tyrosinemias,MESH:D020176,,TAT,4.65,1
+"1,2-dibromo-4-(1,2-dibromoethyl)cyclohexane",C517232,,Tyrosinemias,MESH:D020176,,FAH,4.64,3
+Butyric Acid,D020148,107-92-6,Tyrosinemias,MESH:D020176,,FAH,4.63,3
+Urethane,D014520,51-79-6,Tyrosinemias,MESH:D020176,,FAH|TAT,4.63,4
+"2,6-dinitrotoluene",C023514,606-20-2,Hawkinsinuria,MESH:C535845,,HPD,4.62,1
+benzo(e)pyrene,C026487,192-97-2,Hawkinsinuria,MESH:C535845,,HPD,4.62,1
+"2,4-dinitrotoluene",C016403,121-14-2,Hawkinsinuria,MESH:C535845,,HPD,4.61,1
+methyl cellosolve,C005219,109-86-4,Tyrosinemias,MESH:D020176,,FAH,4.61,3
+Cyclosporine,D016572,59865-13-3,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,4.60,5
+perfluoroundecanoic acid,C586085,,Tyrosinemias,MESH:D020176,,HPD,4.58,1
+Phenobarbital,D010634,50-06-6,Tyrosinemias,MESH:D020176,,HPD|TAT,4.56,2
+Chlorpyrifos,D004390,2921-88-2,Hawkinsinuria,MESH:C535845,,HPD,4.54,1
+decabromobiphenyl ether,C010902,1163-19-5,Hawkinsinuria,MESH:C535845,,HPD,4.54,1
+4-(N-methyl-N-nitrosamino)-1-(3-pyridyl)-1-butanone,C016583,64091-91-4,Tyrosinemias,MESH:D020176,,TAT,4.54,1
+Flame Retardants,D005411,,Tyrosinemias,MESH:D020176,,HPD,4.54,1
+Ursodeoxycholic Acid,D014580,128-13-2,Tyrosinemias,MESH:D020176,,TAT,4.53,1
+2-chloro-N-(4-chlorobiphenyl-2-yl)nicotinamide,C550088,,Tyrosinemias,MESH:D020176,,TAT,4.51,1
+Colchicine,D003078,64-86-8,Tyrosinemias,MESH:D020176,,TAT,4.51,1
+Thiabendazole,D013827,148-79-8,Tyrosinemias,MESH:D020176,,TAT,4.51,1
+Triclosan,D014260,3380-34-5,Hawkinsinuria,MESH:C535845,,HPD,4.50,1
+diethyl maleate,C014476,141-05-9,Tyrosinemias,MESH:D020176,,FAH,4.50,3
+Tetradecanoylphorbol Acetate,D013755,16561-29-8,Tyrosinemias,MESH:D020176,,FAH|TAT,4.50,4
+Corticosterone,D003345,50-22-6,Tyrosinemias,MESH:D020176,,TAT,4.49,1
+Dactinomycin,D003609,50-76-0,Tyrosinemias,MESH:D020176,,TAT,4.49,1
+fumonisin B1,C056933,116355-83-0,Tyrosinemias,MESH:D020176,,FAH,4.49,3
+"4,4'-diaminodiphenylmethane",C009505,101-77-9,Hawkinsinuria,MESH:C535845,,HPD,4.48,1
+epoxiconazole,C109476,,Tyrosinemias,MESH:D020176,,FAH,4.47,3
+Diethylnitrosamine,D004052,55-18-5,Hawkinsinuria,MESH:C535845,,HPD,4.46,1
+pyrazolanthrone,C432165,,Tyrosinemias,MESH:D020176,,TAT,4.46,1
+tamibarotene,C061133,94497-51-5,Tyrosinemias,MESH:D020176,,HPD,4.46,1
+Choline,D002794,62-49-7,Hawkinsinuria,MESH:C535845,,HPD,4.45,1
+Methionine,D008715,63-68-3,Hawkinsinuria,MESH:C535845,,HPD,4.45,1
+cyproconazole,C093628,,Tyrosinemias,MESH:D020176,,FAH,4.45,3
+Cuprizone,D003471,370-81-0,Hawkinsinuria,MESH:C535845,,HPD,4.44,1
+butyraldehyde,C018475,123-72-8,Hawkinsinuria,MESH:C535845,,HPD,4.43,1
+furan,C039281,110-00-9,Hawkinsinuria,MESH:C535845,,HPD,4.43,1
+perfluorooctanoic acid,C023036,335-67-1,Hawkinsinuria,MESH:C535845,,HPD,4.43,1
+Folic Acid,D005492,59-30-3,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,4.43,5
+trovafloxacin,C080163,146836-84-2,Tyrosinemias,MESH:D020176,,TAT,4.43,1
+acetamide,C030686,60-35-5,Hawkinsinuria,MESH:C535845,,HPD,4.42,1
+Methapyrilene,D008701,91-80-5,Hawkinsinuria,MESH:C535845,,HPD,4.42,1
+Ketoconazole,D007654,65277-42-1,Tyrosinemias,MESH:D020176,,TAT,4.42,1
+Ethinyl Estradiol,D004997,57-63-6,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,4.41,5
+Prednisolone,D011239,50-24-8,Tyrosinemias,MESH:D020176,,TAT,4.41,1
+hexabromocyclododecane,C089796,25637-99-4,Hawkinsinuria,MESH:C535845,,HPD,4.39,1
+Azacitidine,D001374,320-67-2,Tyrosinemias,MESH:D020176,,TAT,4.38,1
+imidacloprid,C082359,105827-78-9,Tyrosinemias,MESH:D020176,,TAT,4.37,1
+Sodium Dodecyl Sulfate,D012967,151-21-3,Tyrosinemias,MESH:D020176,,FAH,4.37,3
+Nickel,D009532,7440-02-0,Hawkinsinuria,MESH:C535845,,HPD,4.35,1
+muraglitazar,C500085,,Tyrosinemias,MESH:D020176,,TAT,4.35,1
+Piperonyl Butoxide,D010882,51-03-6,Tyrosinemias,MESH:D020176,,TAT,4.35,1
+Ethylnitrosourea,D005038,759-73-9,Tyrosinemias,MESH:D020176,,FAH,4.33,3
+Miconazole,D008825,22916-47-8,Tyrosinemias,MESH:D020176,,TAT,4.33,1
+"o,p'-DDT",C016340,789-02-6,Tyrosinemias,MESH:D020176,,TAT,4.33,1
+Thioacetamide,D013853,62-55-5,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,4.33,5
+cobaltous chloride,C018021,7646-79-9,Hawkinsinuria,MESH:C535845,,HPD,4.32,1
+Phenobarbital,D010634,50-06-6,Hawkinsinuria,MESH:C535845,,HPD,4.30,1
+"1,2-dithiol-3-thione",C049325,,Tyrosinemias,MESH:D020176,,HPD,4.30,1
+glycidol,C004312,556-52-5,Tyrosinemias,MESH:D020176,,HPD,4.30,1
+Tetrachloroethylene,D013750,127-18-4,Tyrosinemias,MESH:D020176,,HPD,4.29,1
+Ammonium Chloride,D000643,12125-02-9,Hawkinsinuria,MESH:C535845,,HPD,4.28,1
+Plant Extracts,D010936,,Hawkinsinuria,MESH:C535845,,HPD,4.28,1
+triptonide,C084079,38647-11-9,Tyrosinemias,MESH:D020176,,HPD|TAT,4.27,2
+cypermethrin,C017160,52315-07-8,Tyrosinemias,MESH:D020176,,TAT,4.26,1
+Zinc Sulfate,D019287,7733-02-0,Tyrosinemias,MESH:D020176,,HPD,4.25,1
+Methoxychlor,D008731,72-43-5,Tyrosinemias,MESH:D020176,,TAT,4.24,1
+pantogab,C016030,1977-33-9,Tyrosinemias,MESH:D020176,,TAT,4.23,1
+Hexachlorocyclohexane,D001556,,Tyrosinemias,MESH:D020176,,HPD,4.21,1
+pentabromodiphenyl ether,C086401,32534-81-9,Tyrosinemias,MESH:D020176,,HPD,4.21,1
+CGP 52608,C092451,87958-67-6,Hawkinsinuria,MESH:C535845,,HPD,4.20,1
+triptonide,C084079,38647-11-9,Hawkinsinuria,MESH:C535845,,HPD,4.19,1
+butylparaben,C038091,94-26-8,Tyrosinemias,MESH:D020176,,FAH,4.19,3
+Fenofibrate,D011345,49562-28-9,Tyrosinemias,MESH:D020176,,FAH,4.19,3
+Mercury,D008628,7439-97-6,Tyrosinemias,MESH:D020176,,TAT,4.19,1
+valdecoxib,C406224,,Tyrosinemias,MESH:D020176,,TAT,4.17,1
+Methylmercury Compounds,D008767,,Tyrosinemias,MESH:D020176,,HPD,4.15,1
+Acrylamide,D020106,79-06-1,Hawkinsinuria,MESH:C535845,,HPD,4.14,1
+azoxystrobin,C087670,131860-33-8,Tyrosinemias,MESH:D020176,,TAT,4.14,1
+Ascorbic Acid,D001205,50-81-7,Tyrosinemias,MESH:D020176,,FAH,4.12,3
+titanium dioxide,C009495,13463-67-7,Tyrosinemias,MESH:D020176,,FAH|TAT,4.12,4
+Sodium Glutamate,D012970,142-47-2,Tyrosinemias,MESH:D020176,,TAT,4.11,1
+Cadmium Chloride,D019256,10108-64-2,Hawkinsinuria,MESH:C535845,,HPD,4.09,1
+Resveratrol,D000077185,,Hawkinsinuria,MESH:C535845,,HPD,4.09,1
+Succimer,D004113,304-55-2,Tyrosinemias,MESH:D020176,,HPD,4.09,1
+Gentamicins,D005839,,Hawkinsinuria,MESH:C535845,,HPD,4.08,1
+pirinixic acid,C006253,50892-23-4,Hawkinsinuria,MESH:C535845,,HPD,4.08,1
+Magnetite Nanoparticles,D058185,,Tyrosinemias,MESH:D020176,,HPD,4.08,1
+Carbon Tetrachloride,D002251,56-23-5,Hawkinsinuria,MESH:C535845,,HPD,4.07,1
+bis(4-hydroxyphenyl)sulfone,C543008,80-09-1,Tyrosinemias,MESH:D020176,,FAH|TAT,4.05,4
+"Water Pollutants, Chemical",D014874,,Tyrosinemias,MESH:D020176,,TAT,4.04,1
+Resveratrol,D000077185,,Tyrosinemias,MESH:D020176,,FAH|HPD,4.03,4
+Cisplatin,D002945,15663-27-1,Hawkinsinuria,MESH:C535845,,HPD,4.02,1
+methylmercuric chloride,C004925,115-09-3,Hawkinsinuria,MESH:C535845,,HPD,4.01,1
+Silicon Dioxide,D012822,7631-86-9,Hawkinsinuria,MESH:C535845,,HPD,4.01,1
+Disulfiram,D004221,97-77-8,Tyrosinemias,MESH:D020176,,TAT,4.01,1
+Raloxifene Hydrochloride,D020849,,Tyrosinemias,MESH:D020176,,TAT,4.01,1
+Tretinoin,D014212,302-79-4,Hawkinsinuria,MESH:C535845,,HPD,4.00,1
+Tetracycline,D013752,60-54-8,Tyrosinemias,MESH:D020176,,TAT,4.00,1
+Thimerosal,D013849,54-64-8,Tyrosinemias,MESH:D020176,,FAH,4.00,3
+Gentamicins,D005839,,Tyrosinemias,MESH:D020176,,HPD|TAT,3.99,2
+Tobacco Smoke Pollution,D014028,,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,3.99,5
+Cyclosporine,D016572,59865-13-3,Hawkinsinuria,MESH:C535845,,HPD,3.98,1
+Methylcholanthrene,D008748,56-49-5,Tyrosinemias,MESH:D020176,,FAH,3.97,3
+Cyclophosphamide,D003520,50-18-0,Tyrosinemias,MESH:D020176,,TAT,3.96,1
+PCB 180,C410127,,Tyrosinemias,MESH:D020176,,HPD,3.95,1
+Folic Acid,D005492,59-30-3,Hawkinsinuria,MESH:C535845,,HPD,3.94,1
+"2,5,2',5'-tetrachlorobiphenyl",C009407,35693-99-3,Tyrosinemias,MESH:D020176,,HPD,3.94,1
+decamethrin,C017180,52820-00-5,Tyrosinemias,MESH:D020176,,HPD,3.94,1
+estradiol 3-benzoate,C074283,50-50-0,Tyrosinemias,MESH:D020176,,TAT,3.94,1
+Estradiol,D004958,50-28-2,Hawkinsinuria,MESH:C535845,,HPD,3.93,1
+Ethinyl Estradiol,D004997,57-63-6,Hawkinsinuria,MESH:C535845,,HPD,3.93,1
+Aluminum,D000535,7429-90-5,Tyrosinemias,MESH:D020176,,HPD,3.93,1
+Cocaine,D003042,50-36-2,Tyrosinemias,MESH:D020176,,HPD,3.93,1
+Parathion,D010278,56-38-2,Tyrosinemias,MESH:D020176,,TAT,3.93,1
+Thioacetamide,D013853,62-55-5,Hawkinsinuria,MESH:C535845,,HPD,3.92,1
+Nicotine,D009538,,Tyrosinemias,MESH:D020176,,FAH,3.92,3
+Aflatoxin B1,D016604,1162-65-8,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,3.91,5
+propionaldehyde,C005556,123-38-6,Tyrosinemias,MESH:D020176,,HPD,3.91,1
+Dexamethasone,D003907,50-02-2,Tyrosinemias,MESH:D020176,,FAH|TAT,3.90,4
+K 7174,C410337,,Tyrosinemias,MESH:D020176,,HPD,3.90,1
+sodium arsenite,C017947,13768-07-5,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,3.90,5
+vinylidene chloride,C029297,75-35-4,Tyrosinemias,MESH:D020176,,FAH,3.90,3
+diisobutyl phthalate,C025605,84-69-5,Tyrosinemias,MESH:D020176,,TAT,3.89,1
+nimesulide,C012655,51803-78-2,Tyrosinemias,MESH:D020176,,TAT,3.89,1
+DEET,D003671,134-62-3,Tyrosinemias,MESH:D020176,,TAT,3.87,1
+Chloroprene,D002737,126-99-8,Tyrosinemias,MESH:D020176,,TAT,3.86,1
+"2,4,5,2',4',5'-hexachlorobiphenyl",C014024,35065-27-1,Tyrosinemias,MESH:D020176,,HPD,3.85,1
+Potassium Dichromate,D011192,7778-50-9,Tyrosinemias,MESH:D020176,,HPD,3.85,1
+Tobacco Smoke Pollution,D014028,,Hawkinsinuria,MESH:C535845,,HPD,3.84,1
+Aflatoxin B1,D016604,1162-65-8,Hawkinsinuria,MESH:C535845,,HPD,3.83,1
+sodium arsenite,C017947,13768-07-5,Hawkinsinuria,MESH:C535845,,HPD,3.83,1
+methylmercuric chloride,C004925,115-09-3,Tyrosinemias,MESH:D020176,,FAH|HPD,3.83,4
+Coumestrol,D003375,479-13-0,Tyrosinemias,MESH:D020176,,FAH,3.82,3
+Diethylstilbestrol,D004054,56-53-1,Tyrosinemias,MESH:D020176,,TAT,3.82,1
+Palm Oil,D000073878,,Tyrosinemias,MESH:D020176,,FAH,3.82,3
+"2,6-dinitrotoluene",C023514,606-20-2,Tyrosinemias,MESH:D020176,,HPD,3.81,1
+Fenthion,D005284,55-38-9,Tyrosinemias,MESH:D020176,,FAH,3.81,3
+alpha-pinene,C005451,80-56-8,Tyrosinemias,MESH:D020176,,FAH,3.80,3
+methacrylaldehyde,C039175,78-85-3,Tyrosinemias,MESH:D020176,,FAH,3.80,3
+propiconazole,C045950,60207-90-1,Tyrosinemias,MESH:D020176,,FAH,3.80,3
+benzo(b)fluoranthene,C006703,205-99-2,Tyrosinemias,MESH:D020176,,TAT,3.79,1
+Volatile Organic Compounds,D055549,,Tyrosinemias,MESH:D020176,,FAH,3.79,3
+Pregnenolone Carbonitrile,D011285,1434-54-4,Tyrosinemias,MESH:D020176,,TAT,3.78,1
+AZM551248,C547126,,Tyrosinemias,MESH:D020176,,FAH,3.77,3
+glyphosate,C010974,1071-83-6,Tyrosinemias,MESH:D020176,,TAT,3.77,1
+Acetaminophen,D000082,103-90-2,Hawkinsinuria,MESH:C535845,,HPD,3.76,1
+Methyltestosterone,D008777,58-18-4,Tyrosinemias,MESH:D020176,,TAT,3.76,1
+tert-Butylhydroperoxide,D020122,75-91-2,Tyrosinemias,MESH:D020176,,FAH,3.76,3
+decabromobiphenyl ether,C010902,1163-19-5,Tyrosinemias,MESH:D020176,,HPD,3.75,1
+1-Naphthylisothiocyanate,D015058,551-06-4,Tyrosinemias,MESH:D020176,,TAT,3.73,1
+Acrolein,D000171,107-02-8,Tyrosinemias,MESH:D020176,,FAH,3.73,3
+schizandrin B,C015499,,Tyrosinemias,MESH:D020176,,FAH,3.72,3
+GSK-J4,C000593030,,Tyrosinemias,MESH:D020176,,FAH,3.71,3
+Amphetamine,D000661,300-62-9,Tyrosinemias,MESH:D020176,,FAH,3.70,3
+Tetrachlorodibenzodioxin,D013749,1746-01-6,Hawkinsinuria,MESH:C535845,,HPD,3.68,1
+Methionine,D008715,63-68-3,Tyrosinemias,MESH:D020176,,HPD,3.68,1
+Choline,D002794,62-49-7,Tyrosinemias,MESH:D020176,,HPD,3.67,1
+Valproic Acid,D014635,99-66-1,Hawkinsinuria,MESH:C535845,,HPD,3.66,1
+butyraldehyde,C018475,123-72-8,Tyrosinemias,MESH:D020176,,HPD,3.66,1
+Lipopolysaccharides,D008070,,Tyrosinemias,MESH:D020176,,FAH,3.64,3
+hexabromocyclododecane,C089796,25637-99-4,Tyrosinemias,MESH:D020176,,HPD,3.63,1
+Vorinostat,D000077337,,Tyrosinemias,MESH:D020176,,FAH,3.63,3
+Acetaminophen,D000082,103-90-2,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,3.62,5
+Estradiol,D004958,50-28-2,Tyrosinemias,MESH:D020176,,HPD|TAT,3.62,2
+ICG 001,C492448,,Tyrosinemias,MESH:D020176,,FAH,3.62,3
+Benzo(a)pyrene,D001564,50-32-8,Hawkinsinuria,MESH:C535845,,HPD,3.61,1
+1-Methyl-3-isobutylxanthine,D015056,28822-58-4,Tyrosinemias,MESH:D020176,,FAH,3.56,3
+Leflunomide,D000077339,75706-12-6,Tyrosinemias,MESH:D020176,,TAT,3.56,1
+Temozolomide,D000077204,85622-93-1,Tyrosinemias,MESH:D020176,,FAH,3.56,3
+"1,2-Dimethylhydrazine",D019813,540-73-8,Tyrosinemias,MESH:D020176,,FAH|TAT,3.55,4
+Plant Extracts,D010936,,Tyrosinemias,MESH:D020176,,HPD,3.55,1
+Cadmium,D002104,7440-43-9,Tyrosinemias,MESH:D020176,,TAT,3.51,1
+Diethylhexyl Phthalate,D004051,117-81-7,Tyrosinemias,MESH:D020176,,FAH,3.51,3
+Tamoxifen,D013629,10540-29-1,Tyrosinemias,MESH:D020176,,TAT,3.51,1
+bisphenol A,C006780,80-05-7,Hawkinsinuria,MESH:C535845,,HPD,3.50,1
+Flutamide,D005485,13311-84-7,Tyrosinemias,MESH:D020176,,FAH,3.49,3
+Quercetin,D011794,117-39-5,Tyrosinemias,MESH:D020176,,FAH,3.49,3
+Fenretinide,D017313,65646-68-6,Tyrosinemias,MESH:D020176,,FAH,3.48,3
+Acrylamide,D020106,79-06-1,Tyrosinemias,MESH:D020176,,HPD,3.47,1
+Dronabinol,D013759,,Tyrosinemias,MESH:D020176,,FAH,3.46,3
+Rotenone,D012402,83-79-4,Tyrosinemias,MESH:D020176,,FAH,3.46,3
+Arsenic Trioxide,D000077237,1327-53-3,Tyrosinemias,MESH:D020176,,TAT,3.45,1
+Ionomycin,D015759,56092-81-0,Tyrosinemias,MESH:D020176,,FAH,3.45,3
+Methamphetamine,D008694,537-46-2,Tyrosinemias,MESH:D020176,,FAH,3.45,3
+sodium arsenate,C009277,,Tyrosinemias,MESH:D020176,,TAT,3.45,1
+Endosulfan,D004726,115-29-7,Tyrosinemias,MESH:D020176,,FAH,3.44,3
+Ivermectin,D007559,70288-86-7,Tyrosinemias,MESH:D020176,,FAH,3.44,3
+"tris(1,3-dichloro-2-propyl)phosphate",C016805,13674-87-8,Tyrosinemias,MESH:D020176,,FAH,3.44,3
+Testosterone,D013739,58-22-0,Tyrosinemias,MESH:D020176,,FAH,3.43,3
+Indomethacin,D007213,53-86-1,Tyrosinemias,MESH:D020176,,FAH,3.42,3
+Silicon Dioxide,D012822,7631-86-9,Tyrosinemias,MESH:D020176,,HPD,3.42,1
+Dibutyl Phthalate,D003993,84-74-2,Tyrosinemias,MESH:D020176,,FAH,3.41,3
+Paraquat,D010269,4685-14-7,Tyrosinemias,MESH:D020176,,TAT,3.41,1
+Propylthiouracil,D011441,51-52-5,Tyrosinemias,MESH:D020176,,FAH,3.41,3
+"2,2',4,4'-tetrabromodiphenyl ether",C511295,,Tyrosinemias,MESH:D020176,,TAT,3.40,1
+Air Pollutants,D000393,,Tyrosinemias,MESH:D020176,,FAH,3.40,3
+Progesterone,D011374,57-83-0,Tyrosinemias,MESH:D020176,,TAT,3.40,1
+arsenite,C015001,15502-74-6,Tyrosinemias,MESH:D020176,,TAT,3.39,1
+jinfukang,C544151,,Tyrosinemias,MESH:D020176,,FAH,3.37,3
+"4-(5-benzo(1,3)dioxol-5-yl-4-pyridin-2-yl-1H-imidazol-2-yl)benzamide",C459179,,Tyrosinemias,MESH:D020176,,FAH,3.36,3
+trichostatin A,C012589,58880-19-6,Tyrosinemias,MESH:D020176,,FAH,3.36,3
+Dietary Fats,D004041,,Tyrosinemias,MESH:D020176,,FAH,3.35,3
+dorsomorphin,C516138,,Tyrosinemias,MESH:D020176,,FAH,3.34,3
+Copper Sulfate,D019327,7758-98-7,Tyrosinemias,MESH:D020176,,TAT,3.27,1
+Tetrachlorodibenzodioxin,D013749,1746-01-6,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,3.27,5
+Vehicle Emissions,D001335,,Tyrosinemias,MESH:D020176,,FAH,3.26,3
+abrine,C496492,,Tyrosinemias,MESH:D020176,,TAT,3.25,1
+Methyl Methanesulfonate,D008741,66-27-3,Tyrosinemias,MESH:D020176,,TAT,3.25,1
+Particulate Matter,D052638,,Tyrosinemias,MESH:D020176,,TAT,3.24,1
+Valproic Acid,D014635,99-66-1,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,3.22,5
+Atrazine,D001280,1912-24-9,Tyrosinemias,MESH:D020176,,TAT,3.21,1
+"Nanotubes, Carbon",D037742,,Tyrosinemias,MESH:D020176,,TAT,3.21,1
+Ethanol,D000431,64-17-5,Tyrosinemias,MESH:D020176,,TAT,3.20,1
+Benzo(a)pyrene,D001564,50-32-8,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,3.00,5
+bisphenol A,C006780,80-05-7,Tyrosinemias,MESH:D020176,,FAH|HPD|TAT,2.62,5
